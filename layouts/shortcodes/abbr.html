@@ -1,0 +1,16 @@
+<!--- variables based on shortcode argument -->
+{{ $entry := (.Get 0 | lower) }}
+{{ $count_id := print $entry "_count"}}
+
+<!-- range over data file -->
+{{ range $.Site.Data.terms }}
+<!-- Find matches -->
+{{ if eq ( .abbreviation | lower) $entry }}
+{{ if gt ( $.Page.Scratch.Get ( $count_id )) 0 }}
+<abbr title="{{- .term -}}">{{- .abbreviation -}}</abbr>
+{{ else }}
+{{ .term }} ({{ .abbreviation }})
+{{ $.Page.Scratch.Set ( $count_id ) 1 }}
+{{ end }}
+{{ end }}
+{{ end }}
