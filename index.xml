@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on ZZ&#39;s Homepage</title>
-    <link>https://zzzyc001.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on ZZ&#39;s Homepage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Mar 2024 15:00:00 +0000</lastBuildDate>
-    <atom:link href="https://zzzyc001.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Aug 2024 20:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🌏 Serving</title>
+      <link>http://localhost:1313/serving.html</link>
+      <pubDate>Mon, 26 Aug 2024 20:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/serving.html</guid>
+      <description>Beijing 2022 Winter Olympics as a volunteer to guide tours to share the behind-the-scenes techniques in the Olympics.&#xA;5th European Physics Olympiad (EuPhO) as a grader in the third question of the theory for fifty-five members from twelve countries.&#xA;6th EuPhO as a grader in the experiment of eighteen members from four countries.&#xA;52nd International Physics Olympiad (IPhO) as a grader of thirty team members from six countries.&#xA;Student Union of the school of Electronics Engineering and Computer Science as vice president initiated and organized a series of academic activities, such as lab visits and tea parties with senior students.</description>
+    </item>
+    <item>
+      <title>📄 Writings</title>
+      <link>http://localhost:1313/writing.html</link>
+      <pubDate>Mon, 26 Aug 2024 20:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/writing.html</guid>
+      <description>Working Papers A Divergence-free Velocity Reconstruction for Fluid Simulation (as Undergraduate Thesis) This paper proposes a particle-in-cell style method, which based on the port-Hamiltonian formulation, to enhance continuity near interfaces when simulating multi-phase flow. We employ the enhanced particle-in-cell method to ensure phase variables bounded and deploy an interpolation method based on vector potential for multiply connected domains. This paper experimentally justifies the enhanced particle-in-cell method and elucidate the importance of divergence-free velocity field.</description>
+    </item>
     <item>
       <title>🙋‍♂️ About Me</title>
-      <link>https://zzzyc001.github.io/about.html</link>
-      <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
-      <guid>https://zzzyc001.github.io/about.html</guid>
-      <description>Hello, I&#39;m Yuechen Zhu 👋 I am a passionate and creative software engineer with a strong background in developing innovative software solutions. My journey in the world of technology began at a young age when I discovered my love for coding. Since then, I have honed my skills and expertise to become a proficient developer.&#xA;My Expertise I specialize in building robust and scalable web applications using modern technologies such as JavaScript, React, and Node.</description>
+      <link>http://localhost:1313/about.html</link>
+      <pubDate>Mon, 26 Aug 2024 20:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/about.html</guid>
+      <description>Hello, I&#39;m Yuechen Zhu 👋 I got my Bachelor&#39;s degree in Computer Science and Technology, Turing Class, Peking University. During my undergraduate years, I work closely with Dr. Bin Wang and Prof. Baoquan Chen. I am seeking for PhD opportunities.&#xA;My research interests lie in physical simulations, Discrete Differential Geometry (DDG) , and Computer Graphics (CG) in general. I would like to apply fields like differential geometry, differential equations, and computational mathematics to offer more intuitive and profound insights into our understanding of the world.</description>
     </item>
   </channel>
 </rss>
