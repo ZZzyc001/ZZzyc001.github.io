@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coffee · ZZ&#39;s Homepage</title>
+<meta name="description" content="An interactive coffee flavor wheel: from SCA flavor categories down to the aroma and taste compounds behind each flavor.">
+<meta name="author" content="Yuechen Zhu">
+<link rel="canonical" href="https://zzzyc001.github.io/coffee.html">
+<meta property="og:site_name" content="ZZ&#39;s Homepage">
+<meta property="og:title" content="Coffee · ZZ&#39;s Homepage">
+<meta property="og:description" content="An interactive coffee flavor wheel: from SCA flavor categories down to the aroma and taste compounds behind each flavor.">
+<meta property="og:url" content="https://zzzyc001.github.io/coffee.html">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f2eee6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d0c0b" media="(prefers-color-scheme: dark)">
+<script>try{var t=localStorage.getItem("theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}</script>
+<link rel="preload" href="/fonts/archivo-latin-wdth-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/css/main.min.3abbd0938b8652ce5a0a6691ec6d1135f2560b6255fd5d62df836692d45fb68a.css" integrity="sha256-OrvQk4uGUs5aCmaR7G0RNfJWC2JV/V1i34NmktRftoo=" crossorigin="anonymous">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+
+<link rel="stylesheet" href="/css/coffee.min.9fc2ceaee30c6af8ef03c11e122a9e7a53df91a89df218de9a34a99338c6cc28.css" integrity="sha256-n8LOruMMavjvA8EeEiqeelPfkaid8hjemjSpkzjGzCg=" crossorigin="anonymous">
+
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+  <nav class="nav" aria-label="Primary">
+    <a class="nav-mark" href="/"><svg class="mark" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+  <path class="mark-loop" d="M6.5 12C9.2 5.8 20.5 6.2 20.5 12S9.2 18.2 6.5 12Z"/>
+  <circle class="mark-obj" cx="6.5" cy="12" r="2.7"/>
+</svg>
+<span>Yuechen Zhu</span>
+    </a>
+    <ul class="nav-links" id="nav-links">
+      <li><a href="/writing.html">Writing</a></li>
+      <li><a href="/serving.html">Serving</a></li>
+      <li><a href="/coffee.html" aria-current="page">Coffee</a></li>
+      <li><a href="/blog/">Blog</a></li>
+      <li><a href="/friends.html">Friends</a></li>
+    </ul>
+    <div class="nav-tools">
+      <button class="icon-btn theme-toggle" type="button" aria-label="Switch color theme">
+        <svg class="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5Z"/></svg>
+        <svg class="i-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M4.6 4.6 6 6M18 18l1.4 1.4M2.5 12h2M19.5 12h2M4.6 19.4 6 18M18 6l1.4-1.4"/></svg>
+      </button>
+      <button class="icon-btn menu-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="Menu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true" focusable="false"><path d="M4 9h16M4 15h16"/></svg>
+      </button>
+    </div>
+  </nav>
+</header>
+
+  
+<main id="main" class="page tone-roast">
+  <header class="page-head">
+  <div class="container page-head-inner">
+    <div>
+      <h1 class="page-title reveal" style="--i:1">Coffee</h1>
+    </div>
+    <p class="page-count reveal" style="--i:2">282 flavors</p>
+  </div>
+</header>
+
+  <div class="container page-body cw-wide">
+    <div class="cw" data-coffee data-src="/coffee/wheel.min.0434c9c61416ce6a8038cf07a4ea501230453bb309e74ba3a3223bd2b4e4a879.json" data-mol="/coffee/mol/">
+      <div class="cw-toolbar">
+        <div class="cw-search">
+          <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true" focusable="false"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+          <input type="search" autocomplete="off" spellcheck="false" role="combobox" aria-expanded="false" aria-controls="cw-results" aria-autocomplete="list" aria-label="Search flavors or molecules" placeholder="Search flavors or molecules">
+          <ul class="cw-results" id="cw-results" role="listbox" hidden></ul>
+        </div>
+        <div class="cw-lang" role="group" aria-label="Language">
+          <button type="button" data-lang="en" aria-pressed="true">EN</button>
+          <button type="button" data-lang="zh" aria-pressed="false" lang="zh">中文</button>
+        </div>
+      </div>
+      <nav class="cw-crumbs" aria-label="Position on the wheel"></nav>
+      <div class="cw-main">
+        <div class="cw-stage">
+          <div class="cw-wheel"></div>
+          <p class="cw-credit">
+            <span data-i18n="credit">Structure and colors after the SCA &amp; WCR Coffee Taster’s Flavor Wheel (2016). Added flavors come from localized terms, the aroma-molecule wheel and the research literature.</span>
+            <span data-i18n="sources" data-n="134">Compound data from 134 references.</span>
+          </p>
+        </div>
+        <aside class="cw-panel" aria-live="polite"></aside>
+      </div>
+      <noscript><p class="cw-noscript">The flavor wheel needs JavaScript.</p></noscript>
+    </div>
+  </div>
+</main>
+<script src="/js/coffee.min.4f3c9eeaa6374174416bbf4c47f833942009dcefdf18439072c2f92c6717fb24.js" integrity="sha256-Tzye6qY3QXRBa79MR/gzlCAJ3O/fGEOQcsL5LGcX&#43;yQ=" crossorigin="anonymous" defer></script>
+
+  <footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-id"><svg class="mark" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+  <path class="mark-loop" d="M6.5 12C9.2 5.8 20.5 6.2 20.5 12S9.2 18.2 6.5 12Z"/>
+  <circle class="mark-obj" cx="6.5" cy="12" r="2.7"/>
+</svg>
+
+      <span>© 2026 Yuechen Zhu</span>
+      <span>Set in Archivo · Built with Hugo</span>
+    </div>
+    <ul class="footer-links">
+      <li><a href="https://github.com/ZZzyc001" rel="me noopener">GitHub<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M7 17 17 7M8 7h9v9"/></svg>
+</a></li>
+      <li><a href="https://www.douban.com/people/272398616/" rel="me noopener">Douban<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M7 17 17 7M8 7h9v9"/></svg>
+</a></li>
+      <li><a href="mailto:zhuyuechen01@gmail.com">Email</a></li>
+    </ul>
+  </div>
+</footer>
+
+  
+<script src="/js/main.min.95989de22e12e6d0cc1ea7360d709714345e2cbabc27a739b39aeed652542bc3.js" integrity="sha256-lZid4i4S5tDMHqc2DXCXFDReLLq8J6c5s5ru1lJUK8M=" crossorigin="anonymous" defer></script>
+
+</body>
+</html>
