@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on ZZ&#39;s Homepage</title>
-    <link>https://zzzyc001.github.io/</link>
-    <description>Recent content in Home on ZZ&#39;s Homepage</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 26 Aug 2024 20:00:00 +0800</lastBuildDate>
-    <atom:link href="https://zzzyc001.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>🌏 Serving</title>
-      <link>https://zzzyc001.github.io/serving.html</link>
-      <pubDate>Mon, 26 Aug 2024 20:00:00 +0800</pubDate>
-      <guid>https://zzzyc001.github.io/serving.html</guid>
-      <description>Beijing 2022 Winter Olympics as a volunteer to guide tours to share the behind-the-scenes techniques in the Olympics.&#xA;5th European Physics Olympiad (EuPhO) as a grader in the third question of the theory for fifty-five members from twelve countries.&#xA;6th EuPhO as a grader in the experiment of eighteen members from four countries.&#xA;52nd International Physics Olympiad (IPhO) as a grader of thirty team members from six countries.&#xA;Student Union of the school of Electronics Engineering and Computer Science as vice president initiated and organized a series of academic activities, such as lab visits and tea parties with senior students.</description>
-    </item>
-    <item>
-      <title>📄 Writings</title>
-      <link>https://zzzyc001.github.io/writing.html</link>
-      <pubDate>Mon, 26 Aug 2024 20:00:00 +0800</pubDate>
-      <guid>https://zzzyc001.github.io/writing.html</guid>
-      <description>Working Papers A Divergence-free Velocity Reconstruction for Fluid Simulation (as Undergraduate Thesis) This paper proposes a particle-in-cell style method, which based on the port-Hamiltonian formulation, to enhance continuity near interfaces when simulating multi-phase flow. We employ the enhanced particle-in-cell method to ensure phase variables bounded and deploy an interpolation method based on vector potential for multiply connected domains. This paper experimentally justifies the enhanced particle-in-cell method and elucidate the importance of divergence-free velocity field.</description>
-    </item>
-    <item>
-      <title>🙋‍♂️ About Me</title>
-      <link>https://zzzyc001.github.io/about.html</link>
-      <pubDate>Mon, 26 Aug 2024 20:00:00 +0800</pubDate>
-      <guid>https://zzzyc001.github.io/about.html</guid>
-      <description>Hello, I&#39;m Yuechen Zhu 👋 I got my Bachelor&#39;s degree in Computer Science and Technology, Turing Class, Peking University. During my undergraduate years, I work closely with Dr. Bin Wang and Prof. Baoquan Chen. I am seeking for PhD opportunities.&#xA;My research interests lie in physical simulations, Discrete Differential Geometry (DDG) , and Computer Graphics (CG) in general. I would like to apply fields like differential geometry, differential equations, and computational mathematics to offer more intuitive and profound insights into our understanding of the world.</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Home on ZZ&#39;s Homepage</title>
+		<link>https://zzzyc001.github.io/</link>
+		<description>Recent content in Home on ZZ&#39;s Homepage</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 26 Aug 2024 20:00:00 +0800</lastBuildDate>
+		
+			<atom:link href="https://zzzyc001.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About Me</title>
+				<link>https://zzzyc001.github.io/about.html</link>
+				<pubDate>Mon, 26 Aug 2024 20:00:00 +0800</pubDate>
+				<guid>https://zzzyc001.github.io/about.html</guid>
+				<description>&lt;h2 class=&#34;lede&#34; id=&#34;hello-im-yuechen-zhu&#34;&gt;Hello, I&#39;m Yuechen Zhu&lt;/h2&gt;&#xA;&lt;figure class=&#34;right&#34;&gt;&lt;img src=&#34;https://zzzyc001.github.io/img/live_image_crop.jpg&#34;&#xA;&#x9;&#x9;&#x9;alt=&#34;Live Figure&#34; width=&#34;1000&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I got my Bachelor&#39;s degree in Computer Science and Technology, Turing Class, Peking University. During my undergraduate years, I work closely with &lt;a href=&#34;https://binwangbfa.github.io/&#34;&gt;Dr. Bin Wang&lt;/a&gt; and &lt;a href=&#34;https://baoquanchen.info/&#34;&gt;Prof. Baoquan Chen&lt;/a&gt;. I am seeking for PhD opportunities.&lt;/p&gt;&#xA;&lt;p&gt;My research interests lie in physical simulations, Discrete Differential Geometry (DDG), and Computer Graphics (CG) in general. I would like to apply fields like differential geometry, differential equations, and computational mathematics to offer more intuitive and profound insights into our understanding of the world. The integration of diverse disciplines promises to endow us with a more comprehensive perspective toward&#xA;the world.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Serving</title>
+				<link>https://zzzyc001.github.io/serving.html</link>
+				<pubDate>Mon, 26 Aug 2024 20:00:00 +0800</pubDate>
+				<guid>https://zzzyc001.github.io/serving.html</guid>
+				<description>&lt;dl&gt;&#xA;&lt;dt&gt;&lt;span class=&#34;logo&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg viewBox=&#34;0 0 1582 1024&#34;&#xD;&#xA;    xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;currentColor&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34;&gt;&#xD;&#xA;    &lt;path&#xD;&#xA;        d=&#34;M1268.953465 0.078763a306.309976 306.309976 0 1 1 0 612.619952 306.309976 306.309976 0 0 1 0-612.619952z m0 94.515807a211.79417 211.79417 0 1 0 0 423.588339 211.79417 211.79417 0 0 0 0-423.588339z&#34;&#xD;&#xA;       &gt;&lt;/path&gt;&#xD;&#xA;    &lt;path&#xD;&#xA;        d=&#34;M1050.149373 350.1023a306.309976 306.309976 0 1 1 0 612.619952 306.309976 306.309976 0 0 1 0-612.619952z m0 94.515806a211.79417 211.79417 0 1 0 0 423.58834 211.79417 211.79417 0 0 0 0-423.58834z&#34;&#xD;&#xA;       &gt;&lt;/path&gt;&#xD;&#xA;    &lt;path&#xD;&#xA;        d=&#34;M787.631721 0.078763a306.309976 306.309976 0 1 1 0 612.619952A306.309976 306.309976 0 0 1 787.631721 0.078763z m0 94.515807a211.79417 211.79417 0 1 0 0 423.588339A211.79417 211.79417 0 0 0 787.631721 94.59457z&#34;&#xD;&#xA;       &gt;&lt;/path&gt;&#xD;&#xA;    &lt;path&#xD;&#xA;        d=&#34;M525.114068 350.1023a306.309976 306.309976 0 1 1 0 612.619952 306.309976 306.309976 0 0 1 0-612.619952z m0 94.515806a211.79417 211.79417 0 1 0 0 423.58834 211.79417 211.79417 0 0 0 0-423.58834z&#34;&#xD;&#xA;       &gt;&lt;/path&gt;&#xD;&#xA;    &lt;path&#xD;&#xA;        d=&#34;M306.309976 0.078763a306.309976 306.309976 0 1 1 0 612.619952 306.309976 306.309976 0 0 1 0-612.619952z m0 94.515807a211.79417 211.79417 0 1 0 0 423.588339 211.79417 211.79417 0 0 0 0-423.588339z&#34;&#xD;&#xA;       &gt;&lt;/path&gt;&#xD;&#xA;&lt;/svg&gt;&#xD;&#xA;&lt;/span&gt; Beijing 2022 Winter Olympics&lt;/dt&gt;&#xA;&lt;dd&gt;&#xA;&lt;p&gt;as a volunteer to guide tours to share the behind-the-scenes techniques in the Olympics.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Writings</title>
+				<link>https://zzzyc001.github.io/writing.html</link>
+				<pubDate>Mon, 26 Aug 2024 20:00:00 +0800</pubDate>
+				<guid>https://zzzyc001.github.io/writing.html</guid>
+				<description>&lt;h2 id=&#34;working-papers&#34;&gt;Working Papers&lt;/h2&gt;&#xA;&lt;dl&gt;&#xA;&lt;dt&gt;A Divergence-free Velocity Reconstruction for Fluid Simulation (as Undergraduate Thesis)&lt;/dt&gt;&#xA;&lt;dd&gt;&#xA;&lt;p&gt;This paper proposes a particle-in-cell style method, which based on the port-Hamiltonian formulation, to enhance continuity near interfaces when simulating multi-phase flow. We employ the enhanced particle-in-cell method to ensure phase variables bounded and deploy an interpolation method based on vector potential for multiply connected domains. This paper experimentally justifies the enhanced particle-in-cell method and elucidate the importance of divergence-free velocity field.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
